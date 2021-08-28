@@ -3,5 +3,5 @@
 Principais comandos no Git
 
 <ul>
-<li>  </li>
+<li>pwd - local da pasta</li>
 </ul>
