@@ -2,6 +2,6 @@
 
 Principais comandos no Git
 
-<ul)
+<ul>
 <li>  </li>
 </ul>
