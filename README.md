@@ -1,4 +1,4 @@
-# senai-versoes-colaboracoes
+# Atividade 1 comandos github
 
 Principais comandos no Git
 
