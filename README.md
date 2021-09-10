@@ -1,16 +1,19 @@
-# Atividade 1 comandos github
+Testes e Atividades Realizadas durante o curso de Programador Frond-End do SENAI
 
-Principais comandos no Git
+Principais Comandos no Git
+pwp - Local da Pasta
+ls - Listar/Mostrar as pastas e arquivos
+cd "nome da pasta" - Para acessar as pastas criadas dentro do servidor
+cd .. - Voltar uma pasta
+clear - Limpar a tela
+mkdir "nome" - Criar Pastas
+touch "nome da pasta"/"nome do arquivo"."tipo de arquivo (html, css, text) - Serve para criar arquivo
 
-<ul>
-<li>pwd - local da pasta</li>
-  <li>git clone - serve para clonar o repositorio</li>
-  <li>ls = listar pastas e arquivos</li>
-  <li>cd + nome da pasta - serve para acessar as pastas criadas</li>
-  <li>clear - limpeza de tela
-    <li>mkdir - criar uma pasta 
-  <li>cd.. - voltar uma pasta</li>
-  <li>touch - serve para criar tipos de arquivos</li>
-  <li>git status - serve para verificar os arquivos que estao verificados</li>
-  <li>git push - serve para subir para o github</li>
-</ul>
+git clone colocar_link_do_repositorio - Clonar repositorio para remote
+git init - Inicia um repositorio local
+git status - Adr um status dos arquivos criados
+git add * - Atualizar/Subir arquivo
+git commit -m "Coloque sua mensagem" - Marcar ação
+git config --global user.name colocar_nick - Conectar conta
+git config --global user.email "colocar_email" - conectar conta
+git push colocar_link_do_repositorio - Subir arquivo para GitHub
