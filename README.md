@@ -1,7 +1,7 @@
 <h1>Testes e Atividades Realizadas durante o curso de Programador Frond-End do SENAI</h1>
 
-Principais Comandos no Git
-<br>
+<h3>Principais Comandos no Git </h3>
+<br> <br>
  <li>pwp - Local da Pasta
 <li>ls - Listar/Mostrar as pastas e arquivos
 <li>cd "nome da pasta" - Para acessar as pastas criadas dentro do servidor
